@@ -1,0 +1,1 @@
+Projeto de estudo Freecodecamp de um Menu de cafeteria em HTML.
